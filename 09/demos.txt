@@ -1,0 +1,33 @@
+Section 10, Advanced IAM, Web Identity Federation, About Web Identity Federation, https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc.html
+
+Section 10, Advanced IAM, Web Identity Federation, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609899476865-S10_L1_WEB_IDENTITY_FEDERATION.pdf
+
+Section 10, Advanced IAM, Cognito User Pools Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609899734779-S10_L3_COGNITO_LAB.pdf
+
+Section 10, Advanced IAM, Cognito User Pools Demo, Lesson Resources, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Cognito_User_Pools_Demo
+
+Section 10, Advanced IAM, Cognito Identity Pools Demo - Part 1, Github Repository, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Cognito_Demo
+
+Section 10, Advanced IAM, Cognito Identity Pools Demo - Part 2, Vi Cheatsheet, https://web.mit.edu/merolish/Public/vi-ref.pdf
+
+Section 10, Advanced IAM, Cognito Identity Pools Demo - Part 2, Github Repository, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Cognito_Demo
+
+Section 10, Advanced IAM, Inline Policies vs Managed Policies vs Customer Managed Policies, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609899815015-S10_L4__INLINE_POLICIES_V_MANAGED_POLICIES_V_CUSTOM_POLICIES.pdf
+
+Section 10, Advanced IAM, STS AssumeRoleWithWebIdentity, AssumeRoleWithWebIdentity, https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRoleWithWebIdentity.html
+
+Section 10, Advanced IAM, STS AssumeRoleWithWebIdentity, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609899953164-S10_L5_ASSUME_ROLE_WITH_WEB_ID.pdf
+
+Section 10, Advanced IAM, Configuring Cross Account Access - Demo, role.json, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1660704348844-role.json
+
+Section 10, Advanced IAM, Configuring Cross Account Access - Demo, Lesson Resources, https://media.acloud.guru/aws-cda-2018/resource/0f9ab0b5-75f3-1764-0169-fc734957d4d4_4119f525-0e96-2f6b-0e65-94842d2b7fcd/aws-cda-2018-a4e1d1ac-51c3-4d3a-ac90-2ad7d7722922.json?Expires=1670513866&Signature=RgdX5AoicE/ldrAqc86fCb0HSay0gPqa7GEeeFO4TYHI7HXyj7WCLsyb6dUZG1iFtqLcqp04q48KV5CpHUtPFd8U/sPToKMsq0+njTmYVg6MNAIMMeGVME2jkXVxSBEaDQsacNmghZdst03edXfyZETp9Mi5UC0wkHNcvAWnb6zAGxXkLWdgLIVl3uIQm6yzy6WLcoBMArhOHT8nbGGgdBncF+iN6InvghUCM7k9XSfIKQh6UoA4d6uIG9P4B/r4CWlSlAcvZeWxO7n2Ig+p3jTGA9rnEUjTlQ7sum1cbaAi/Q+fFrFZLsGfOWrm30srKcxN+KNK/KfPobyWrV8Xcw==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 10, Advanced IAM, Configuring Cross Account Access - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609900092217-S10_L6_CROSS_ACCOUNT_ACCESS.pdf
+
+Section 10, Advanced IAM, Configuring Cross Account Access - Demo, How to Enable Cross-Account Access to the AWS Management Console, https://aws.amazon.com/blogs/security/how-to-enable-cross-account-access-to-the-aws-management-console/
+
+Section 10, Advanced IAM, Configuring Cross Account Access - Demo, Tutorial: Delegate Access Across AWS Accounts Using IAM Roles, https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html
+
+Section 10, Advanced IAM, Advanced IAM Summary, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609900212200-S10_L7_ADVANCED_IAM_SUMMARY.pdf
+
+Section 10, Advanced IAM, Advanced IAM Summary, AWS Certified Developer Associate Interactive Study Guide: Advanced IAM, https://acloudguru.visme.co/view/6x6r04y3-aws-certified-developer-associate-studyguide-s10-advanced-iam

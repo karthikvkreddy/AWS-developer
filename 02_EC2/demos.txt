@@ -1,0 +1,93 @@
+Section 3, Beginner's Guide to EC2, Introducing EC2, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to EC2 - Part 2, https://acloudguru.visme.co/view/8r08r6nq-aws-certified-developer-associate-studyguide-s03-beginner-guide-to-ec2-part2
+
+Section 3, Beginner's Guide to EC2, Introducing EC2, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609871879847-S3_L1_INTRODUCING_EC2.pdf
+
+Section 3, Beginner's Guide to EC2, Introducing EC2, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to EC2 - Part 1, https://acloudguru.visme.co/view/8r08r8nv-aws-certified-developer-associate-studyguide-s03-beginner-guide-to-ec2-part1
+
+Section 3, Beginner's Guide to EC2, EC2 Pricing Options, AWS Whitepaper: Amazon EC2 Reserved Instances and Other AWS Reservation Models, https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-reservation-models/cost-optimization-reservation-models.pdf
+
+Section 3, Beginner's Guide to EC2, EC2 Pricing Options, AWS Pricing Calculator, https://calculator.aws/
+
+Section 3, Beginner's Guide to EC2, EC2 Pricing Options, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872027849-S3_L2_EC2-PRICING_OPTIONS.pdf
+
+Section 3, Beginner's Guide to EC2, Exploring EC2 Instance Types, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872206715-S3_L3_EXPLORING_EC2_INSTANCE_TYPES.pdf
+
+Section 3, Beginner's Guide to EC2, Exploring EC2 Instance Types, EC2 Instance Types, https://aws.amazon.com/ec2/instance-types/
+
+Section 3, Beginner's Guide to EC2, Launching an EC2 Instance - Demo, index.html file, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1621302646242-basichtml.zip
+
+Section 3, Beginner's Guide to EC2, How to Use Putty Demo (Windows Users Only), Download Putty, https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+Section 3, Beginner's Guide to EC2, How to Use Putty Demo (Windows Users Only), AWS Putty User Guide, https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+
+Section 3, Beginner's Guide to EC2, Understanding EBS Volumes, Amazon EBS volume types, https://aws.amazon.com/ebs/volume-types/
+
+Section 3, Beginner's Guide to EC2, Understanding EBS Volumes, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872341721-S3_L5_UNDERSTANDING_EBS_VOLUMES.pdf
+
+Section 3, Beginner's Guide to EC2, Understanding EBS Volumes, EBS Volumes Documentation, https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+
+Section 3, Beginner's Guide to EC2, Creating an EBS Volume - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872427227-S3_L6_CREATING_AN_EBS_VOLUME_DEMO.pdf
+
+Section 3, Beginner's Guide to EC2, Exploring Elastic Load Balancer, Create an HTTPS listener for your Application Load Balancer, https://docs.aws.amazon.com/elasticloadbalancing/latest/application/create-https-listener.html
+
+Section 3, Beginner's Guide to EC2, Exploring Elastic Load Balancer, Elastic Load Balancing features compared, https://aws.amazon.com/elasticloadbalancing/features/
+
+Section 3, Beginner's Guide to EC2, Exploring Elastic Load Balancer, AWS Elastic Load Balancing: Support for SSL Termination, https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/
+
+Section 3, Beginner's Guide to EC2, Exploring Elastic Load Balancer, Gateway Load Balancer, https://aws.amazon.com/elasticloadbalancing/gateway-load-balancer/
+
+Section 3, Beginner's Guide to EC2, Exploring Elastic Load Balancer, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872756371-S3_L8_ELB.pdf
+
+Section 3, Beginner's Guide to EC2, Exploring Elastic Load Balancer, Elastic Load Balancer Troubleshooting, https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-troubleshooting.html
+
+Section 3, Beginner's Guide to EC2, Route 53 Demo, Bootstrap.sh, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1613503351037-bootstrap.txt
+
+Section 3, Beginner's Guide to EC2, Route 53 Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872856153-S3_L9_ROUTE53_LAB.pdf
+
+Section 3, Beginner's Guide to EC2, CLI Demo Lab, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609872950915-S3_L10_CLI_DEMO_LAB.pdf
+
+Section 3, Beginner's Guide to EC2, CLI Demo Lab, AWS - CLI  S3 reference doco, https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/index.html
+
+Section 3, Beginner's Guide to EC2, CLI Demo Lab, AWS - CLI configure, https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+
+Section 3, Beginner's Guide to EC2, CLI Demo Lab, AWS - CLI profiles, https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
+
+Section 3, Beginner's Guide to EC2, CLI Demo Lab, Instance metadata and user data, https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+
+Section 3, Beginner's Guide to EC2, CLI Pagination, CLI Commands, https://media.acloud.guru/aws-cda-2018/resource/f9ef4635-02f4-c3da-017c-32fbbe6bc15b_95372cf1-edf9-a89d-7963-233567e7c4a0/aws-cda-2018-a4e4fa1d-c5b2-4857-b246-a0160d7696dc.txt?Expires=1670328211&Signature=JzhjnJfcbO1U2wUXAIqIs5kebN+GeboQomRXor5p5ifx55iFAkQphHj/jQigYj3O8LQLwbTGvUgHa+7xWjwQJ9dc+kHUHnguBNNaPPgwQH9Th4rWkWZCp8G7VybpFXzgpi3qlvNMFQ8tJDRsI634zZ72HkV4SigeKgmN9IDpRNJzgMVJ4Ne45SrTeTG1KFIFxnwsJpNTkKqr2Nqq0Pi7JZzFwurOEGq2ipRKfX9deQ3410GvCf7+QcNTt60kVJoviqBI62Lu/tbeX04Ys6wE3JzjzAXMhJnmXr3QAdO45T+18PU2Bq0zbMX9GW6RrucL8F8V0hu5HXflmcFwl912eg==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 3, Beginner's Guide to EC2, CLI Pagination, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609873081692-S3_L11_AWS_CLI_PAGINATION_edited.pdf
+
+Section 3, Beginner's Guide to EC2, EC2 with S3 Role Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609873357975-S3_L12_EC2_WITH_S3_ROLE_LAB.pdf
+
+Section 3, Beginner's Guide to EC2, RDS 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609873470902-S3_L13_RDS.pdf
+
+Section 3, Beginner's Guide to EC2, RDS Demo, Bootstrap Script and RDS Commands, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/RDS_Demo
+
+Section 3, Beginner's Guide to EC2, RDS Multi-AZ and Read Replicas, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609873604169-S3_L15_RDS_MULTI_AZ_%26_READ_REPLICAS.pdf
+
+Section 3, Beginner's Guide to EC2, RDS Backups and Snapshots, Slides PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637614807477-AWS%20Certified%20Developer%20-%20Associate%202020_RDS%20Backups%20and%20Snapshots.pdf
+
+Section 3, Beginner's Guide to EC2, Elasticache 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609873697098-S3_L16_ELASTICACHE_101.pdf
+
+Section 3, Beginner's Guide to EC2, Systems Manager Parameter Store, AWS Secrets Manager FAQs, https://aws.amazon.com/secrets-manager/faqs/
+
+Section 3, Beginner's Guide to EC2, Systems Manager Parameter Store, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609873756236-S3_L17_AWSSystemsManagerParameterStore.pdf
+
+Section 3, Beginner's Guide to EC2, Systems Manager Parameter Store, AWS Systems Manager Parameter Store, https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html
+
+Section 3, Beginner's Guide to EC2, Systems Manager Parameter Store, Systems Manage User Guide, https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html
+
+Section 3, Beginner's Guide to EC2, Systems Manager Parameter Store, AWS Systems Manager FAQs > Parameter Store, https://aws.amazon.com/systems-manager/faq/#Parameter_Store
+
+Section 3, Beginner's Guide to EC2, EC2 Summary - Part 1, Slides PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1643066316293-EC2_SUMMARY_Part1.pdf
+
+Section 3, Beginner's Guide to EC2, EC2 Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to EC2 - Part 1, https://acloudguru.visme.co/view/8r08r8nv-aws-certified-developer-associate-studyguide-s03-beginner-guide-to-ec2-part1
+
+Section 3, Beginner's Guide to EC2, EC2 Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to EC2 - Part 2, https://acloudguru.visme.co/view/8r08r6nq-aws-certified-developer-associate-studyguide-s03-beginner-guide-to-ec2-part2
+
+Section 3, Beginner's Guide to EC2, EC2 Summary - Part 2, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to EC2 - Part 1, https://acloudguru.visme.co/view/8r08r8nv-aws-certified-developer-associate-studyguide-s03-beginner-guide-to-ec2-part1
+
+Section 3, Beginner's Guide to EC2, EC2 Summary - Part 2, Slides PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1643066359715-EC2_SUMMARY_Part2.pdf
+
+Section 3, Beginner's Guide to EC2, EC2 Summary - Part 2, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to EC2 - Part 2, https://acloudguru.visme.co/view/8r08r6nq-aws-certified-developer-associate-studyguide-s03-beginner-guide-to-ec2-part2

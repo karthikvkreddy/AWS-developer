@@ -1,0 +1,13 @@
+Section 11, Monitoring, Introduction to CloudWatch, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609900311030-S11_L1_CloudWatch_Introduction.pdf
+
+Section 11, Monitoring, CloudWatch Demo, GitHub Resources - Bootstrap Script and commands, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/blob/main/CloudWatch_Demo/commands.txt
+
+Section 11, Monitoring, Understanding CloudWatch Concepts, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1652757835766-S11_L5_UNDERSTANDING_CLOUDWATCH_CONCEPTS.pdf
+
+Section 11, Monitoring, CloudWatch vs CloudTrail, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609900440682-S11_L3_CloudWatch_vs_CloudTrail_vs_AWS_Config.pdf
+
+Section 11, Monitoring, Using CloudWatch Actions, Lesson Resources (script and commands), https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/CloudWatch_Actions_Demo
+
+Section 11, Monitoring, Using CloudWatch Actions, CloudWatch API Reference, https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/API_Operations.html
+
+Section 11, Monitoring, Monitoring Summary, AWS Certified Developer Associate Interactive Study Guide: Monitoring, https://acloudguru.visme.co/view/mxyrd07d-aws-certified-developer-associate-studyguide-s11-monitoring

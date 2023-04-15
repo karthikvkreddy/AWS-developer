@@ -1,0 +1,67 @@
+Section 8, Other AWS Services, SQS, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894975843-S8_L1_SQS.pdf
+
+Section 8, Other AWS Services, Understanding SQS Queue Types, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895109075-S8_L2_UNDERSTANDING_SQS_QUEUE_TYPES.pdf
+
+Section 8, Other AWS Services, SQS Settings, Amazon SQS FAQs, https://aws.amazon.com/sqs/faqs/
+
+Section 8, Other AWS Services, SQS Settings, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895198911-S8_L3_SQS_SETTINGS.pdf
+
+Section 8, Other AWS Services, SQS Settings, SQS Short and Long Polling, https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html
+
+Section 8, Other AWS Services, SQS Delay Queues & Large Messages, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895281111-S8_L4_SQS%20Delay%20Queues_SETTINGS.pdf
+
+Section 8, Other AWS Services, Simple Notification Service, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895351789-S8_L5_SNS%20.pdf
+
+Section 8, Other AWS Services, SES vs SNS, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895466152-S8_L6_SNS_V_SES.pdf
+
+Section 8, Other AWS Services, Kinesis 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895564960-S8_L7_KINESIS_101.pdf
+
+Section 8, Other AWS Services, Setting Up A Kinesis Data Stream - Demo, Kinesis CloudFormation URL, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1599847264917-CloudFormationS3URL.txt
+
+Section 8, Other AWS Services, Setting Up A Kinesis Data Stream - Demo, Download The CloudFormation Template, https://s3.amazonaws.com/kinesis-demo-bucket/amazon-kinesis-data-visualization-sample/kinesis-data-vis-sample-app.template
+
+Section 8, Other AWS Services, Setting Up A Kinesis Data Stream - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895657372-S8_L8_SETTING_UP_A_KINESIS_STREAM_DEMO.pdf
+
+Section 8, Other AWS Services, Kinesis Shards and Consumers, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895743609-S8_L9_KINESIS_SHARDS.pdf
+
+Section 8, Other AWS Services, Introducing Elastic Beanstalk, Elastic Beanstalk Supported Platforms, https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+
+Section 8, Other AWS Services, Introducing Elastic Beanstalk, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895816623-S8_L10_INTRODUCING_ELASTICBEANSTALK.pdf
+
+Section 8, Other AWS Services, Updating Elastic Beanstalk, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895953870-S8_L12_UPDATING_ELASTICBEANSTALK.pdf
+
+Section 8, Other AWS Services, Deploying An Application With Elastic Beanstalk - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609895893276-S8_L11_DEPLOYING_APPS_WITH_ELASTICBEANSTALK_DEMO.pdf
+
+Section 8, Other AWS Services, Deploying An Application With Elastic Beanstalk - Demo, Elastic Beanstalk code - Version 1, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Deploying_An_App_With_Elastic_Beanstalk_Demo
+
+Section 8, Other AWS Services, Updating An Application In Elastic Beanstalk - Demo, Version 2, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1603115824003-aws-cda-EBS_Demo_V2.zip
+
+Section 8, Other AWS Services, Updating An Application In Elastic Beanstalk - Demo, GitHub Repository, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Updating_An_App_With_Elastic_Beanstalk_Demo
+
+Section 8, Other AWS Services, Updating An Application In Elastic Beanstalk - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896058014-S8_L13_UPDATING_AN_APPLICATION_WITH_ELASTICBEANSTALK_DEMO.pdf
+
+Section 8, Other AWS Services, Updating An Application In Elastic Beanstalk - Demo, Version 1, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1603115810809-aws-cda-EBS_Demo_V1.zip
+
+Section 8, Other AWS Services, Advanced Elastic Beanstalk, Amazon Linux AMI (AL1) platform retirement FAQ, https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.migration-al.FAQ.html
+
+Section 8, Other AWS Services, Advanced Elastic Beanstalk, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896179463-S8_L14_ADVANCED_ELASTICBEANSTALK.pdf
+
+Section 8, Other AWS Services, Advanced Elastic Beanstalk, Extending Elastic Beanstalk Linux platforms, https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-linux-extend.html
+
+Section 8, Other AWS Services, Advanced Elastic Beanstalk, AWS Elastic Beanstalk FAQs, https://aws.amazon.com/elasticbeanstalk/faqs/
+
+Section 8, Other AWS Services, RDS & Elastic Beanstalk, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896267566-S8_L15_RDS_%26_ELASTICBEANSTALK.pdf
+
+Section 8, Other AWS Services, Migrating Applications to Elastic Beanstalk, Migration Assistant Tool , https://github.com/awslabs/windows-web-app-migration-assistant
+
+Section 8, Other AWS Services, Other AWS Services Summary - Part 1, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896353548-S8_L16_OTHER_AWS_SERVICES_SUMMARY%201%20%262.pdf
+
+Section 8, Other AWS Services, Other AWS Services Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Other AWS Services - Part 2, https://acloudguru.visme.co/view/x43pdq3y-aws-certified-developer-associate-studyguide-s09-developer-theory-part2
+
+Section 8, Other AWS Services, Other AWS Services Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Other AWS Services - Part 1, https://acloudguru.visme.co/view/z46yzxpo-aws-certified-developer-associate-studyguide-s08-other-aws-services-part1
+
+Section 8, Other AWS Services, Other AWS Services Summary - Part 2, AWS Certified Developer Associate Interactive Study Guide: Other AWS Services - Part 1, https://acloudguru.visme.co/view/4d3qwvrj-aws-certified-developer-associate-studyguide-s09-developer-theory-part1
+
+Section 8, Other AWS Services, Other AWS Services Summary - Part 2, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896353548-S8_L16_OTHER_AWS_SERVICES_SUMMARY%201%20%262.pdf
+
+Section 8, Other AWS Services, Other AWS Services Summary - Part 2, AWS Certified Developer Associate Interactive Study Guide: Other AWS Services - Part 2, https://acloudguru.visme.co/view/x43pdq3y-aws-certified-developer-associate-studyguide-s09-developer-theory-part2

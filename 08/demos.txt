@@ -1,0 +1,89 @@
+Section 9, Developer Theory, What is CI/CD?, CI / CD Whitepaper, https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.pdf
+
+Section 9, Developer Theory, What is CI/CD?, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896587198-S9_L1_WHAT_IS_CICD.pdf
+
+Section 9, Developer Theory, CodeCommit 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609896698208-S9_L2_CODECOMMIT_101.pdf
+
+Section 9, Developer Theory, CodeDeploy 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609897165333-S9_L4_CODEDEPLOY_101.pdf
+
+Section 9, Developer Theory, The CodeDeploy AppSpec File, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609897287303-S9_L5_CODEDEPLOY_APPSPEC_FILE.pdf
+
+Section 9, Developer Theory, CodeDeploy Lifecycle Event Hooks, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609897445704-S9_L6_CODEDEPLOY_LIFECYCLE_HOOKS.pdf
+
+Section 9, Developer Theory, Code Deploy Demo - Part 1, Lab files , https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Code_Deploy_Demo
+
+Section 9, Developer Theory, CodePipeline 101, AWS CodePipeline, https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html
+
+Section 9, Developer Theory, CodePipeline 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609897676335-S9_L8_CODEPIPELINE_101.pdf
+
+Section 9, Developer Theory, Code Deploy Demo - Part 1, webapp.zip, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1656666666985-webapp.zip
+
+Section 9, Developer Theory, Code Deploy Demo - Part 1, Code Deploy Demo Walk-through, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1656666625470-Code%20Deploy%20Demo%20Walk-through.txt
+
+Section 9, Developer Theory, CodePipeline Demo - Part 1, Configuring the AWS CLI, https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html#cli-quick-configuration
+
+Section 9, Developer Theory, CodePipeline Demo - Part 1, EC2 Key Pairs, https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html#having-ec2-create-your-key-pair
+
+Section 9, Developer Theory, CodeDeploy Demo - Part 2, Lab files, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Code_Deploy_Demo
+
+Section 9, Developer Theory, CodeDeploy Demo - Part 2, webapp, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1656666769545-webapp.zip
+
+Section 9, Developer Theory, CodeDeploy Demo - Part 2, CodeDeploy Demo Walk-through, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1656666727846-Code%20Deploy%20Demo%20Walk-through.txt
+
+Section 9, Developer Theory, CodePipeline Demo - Part 1, Lesson Resources, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Code_Pipeline_Demo
+
+Section 9, Developer Theory, CodePipeline Demo - Part 1, Connecting to an EC2 Instance, https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
+
+Section 9, Developer Theory, CodePipeline Demo - Part 2, Lesson Resources, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Code_Pipeline_Demo
+
+Section 9, Developer Theory, Demo - Creating a CodeArtifact Repository, Lesson Resources (AWS CLI commands), https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Code_Artifact_Demo
+
+Section 9, Developer Theory, Demo - Creating a CodeArtifact Repository, Adding an External Connection to a CodeArtifact Repository, https://docs.aws.amazon.com/codeartifact/latest/ug/external-connection.html
+
+Section 9, Developer Theory, Elastic Container Service, The 12 Factor App, https://12factor.net/
+
+Section 9, Developer Theory, Elastic Container Service, Running Containerized Microservices On AWS, https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf
+
+Section 9, Developer Theory, Elastic Container Service, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609897910007-S9_L10_ECS.pdf
+
+Section 9, Developer Theory, Elastic Container Service, Using Amazon ECR with the AWS CLI, https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html
+
+Section 9, Developer Theory, Elastic Container Service, Pushing a Docker image, https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html
+
+Section 9, Developer Theory, Docker and Elastic Beanstalk, Lab files - v1.zip, https://media.acloud.guru/aws-cda-2018/resource/f9ef4635-02f4-c3da-017c-32fbbe6bc15b_ec9aab85-c8a8-3f2c-44ea-b52dc6e1024f/aws-cda-2018-592adba2-d929-42a9-b6db-d60cc9d3b603.zip?Expires=1670328211&Signature=aAG8rvQsd0vWSjRUCB5E2QiAzOGfJo0NmpGp5RdbISBbVieGbY+7fb87paqGg1r2hbfKiKKD9dN1LEuKtkidi9ITtxTuUyUhPCixmh/ycsqx6W0lWCjr4o5ZivjASHVw/I+28Y7u9xssRtEaAZXdziHGu5QrzjZKvjhVLJ3sUUMq/CVVpg07j9DEsPk9AmmbUkXviv0U7be1p4kBhT5Wi+vQaO0/niwYxuZVeKUfInt3FXX3Y02uj4Ee6fZGWVV2eCq3q2+4ETKkjCNQhb58Sr3T2yCUiKyo7/A473S5MOe3I/5DSCRb7EDBfGTpe9ohM3/7uous+wna6Ig3Yh5zdA==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 9, Developer Theory, Docker and Elastic Beanstalk, Lab files - v2.zip, https://media.acloud.guru/aws-cda-2018/resource/f9ef4635-02f4-c3da-017c-32fbbe6bc15b_ec9aab85-c8a8-3f2c-44ea-b52dc6e1024f/aws-cda-2018-517dd126-deb9-4406-99d9-199fea353643.zip?Expires=1670328211&Signature=YwGPNxz2nwJ37XpxwyVQ+4JB7ETPAulKNuOgkLSIBzy4ChA0EVCHCG/z0CFikaUM/onyVWkNYfp7G0hjBaD3XYg5WLsy1Vwh0hbgqQesJhJz2lnNl8IWvdWWzivqV9LxAECZiPY3r85sHMXowwviAGGlb+XlcRwo4PNY3Rz/qERCskdA7e7zuTzFVZQrkQ1rmkDPDI4PNo90ZcWR9TYxdyuDiqk80gDegedAqAHW1yG4Iler4NFcD1FcoMc6xnYuU+T0t6CU1nk5UZNkHzsxrIumkg83m+wOi+WWrsX4Or/LTxvD6oGzMF1NmfmoYdJ4LFsrJhtE61Ao1r/y7C1reQ==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 9, Developer Theory, Docker and Elastic Beanstalk, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609898383628-S9_L14_Docker%20and%20Elastic%20Beanstalk.pdf
+
+Section 9, Developer Theory, Introduction To CloudFormation, Resource attribute reference, https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-product-attribute-reference.html
+
+Section 9, Developer Theory, Introduction To CloudFormation, CloudFormation Template Snippets, https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html
+
+Section 9, Developer Theory, Introduction To CloudFormation, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609898487456-S9_L15_CLOUDFORMATION.pdf
+
+Section 9, Developer Theory, CloudFormation Demo, CloudFormation Template, https://media.acloud.guru/aws-cda-2018/resource/a23ab82a-fab5-9cb9-9a15-029ffda47c02_462c9532-a56a-7ca5-d136-2122647fa329/aws-cda-2018-af53a522-cdf6-4fcd-b12d-e8948e84d58d.yml?Expires=1670328211&Signature=g57IvapFK7rUTt9cLCZTxfQX0Ndip42GHY+47nPea1mlYpXJW/cveAdxhbsLOU+Bf4bw/wuNxy01CgU76HSP6YmnrTn5DS0v0OFBqJFv5eDJZUSxfQS3KioQTH7YfUPAhtWcacoyZR3n1DlFTM95g1gyBlD+fI9wnDkIe9yysTT7e9OLFOC8VnUPMSaQa2Ro1LRbg6CR/fuMBjPvebOK/xcfr2SvpJUX9DjyR1muLyEAzbYLkgy1+xkEx/HQbhNaERDspGAVkBaS/jCmgHzS4lb+xq8IaxsAGcHRp+qK6go0lLJIRkEbR0oFTZkmHgCIPUclsxMWCbgLhmVjMT9PEg==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 9, Developer Theory, CloudFormation Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609898660330-S9_L16_CLOUDFORMATION_LAB.pdf
+
+Section 9, Developer Theory, Exporting CloudFormation Stack Values, Lesson Resources - CloudFormation Templates, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Exporting_CloudFormation_Stack_Values_Demo
+
+Section 9, Developer Theory, The Serverless Application Model (SAM), Slides PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637614735195-AWS%20Certified%20Developer%20-%20Associate%202020_The%20Serverless%20Application%20Model%20%28SAM%29.pdf
+
+Section 9, Developer Theory, CloudFormation and SAM Demo, Lesson Resources, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/CloudFormation_SAM_Demo
+
+Section 9, Developer Theory, CloudFormation and SAM Demo, AWS Guide To Installing the SAM CLI, https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
+
+Section 9, Developer Theory, CloudFormation Nested Stacks, Walkthrough: Refer to resource outputs in another AWS CloudFormation stack, https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/walkthrough-crossstackref.html
+
+Section 9, Developer Theory, CloudFormation Nested Stacks, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609899095247-S9_L19_CLOUDFORMATION_NESTED_TEMPLATES.pdf
+
+Section 9, Developer Theory, CloudFormation Nested Stacks, CloudFormation Best Practices, https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html
+
+Section 9, Developer Theory, Developer Theory Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Developer Theory - Part 2, https://acloudguru.visme.co/view/x43pdq3y-aws-certified-developer-associate-studyguide-s09-developer-theory-part2
+
+Section 9, Developer Theory, Developer Theory Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Developer Theory - Part 1, https://acloudguru.visme.co/view/4d3qwvrj-aws-certified-developer-associate-studyguide-s09-developer-theory-part1
+
+Section 9, Developer Theory, Developer Theory Summary - Part 2, Practicing Continuous Integration and Continuous Delivery on AWS, https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+
+Section 9, Developer Theory, Developer Theory Summary - Part 2, Overview of Deployment Options on AWS Whitepaper, https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/overview-deployment-options.pdf

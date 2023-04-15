@@ -1,0 +1,43 @@
+Section 6, DynamoDB, Introduction to DynamoDB, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882756199-S6_L1_INTRODUCTION_TO_DYNAMO_DB.pdf
+
+Section 6, DynamoDB, Introduction to DynamoDB, Amazon DynamoDB Transactions: How It Works, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html
+
+Section 6, DynamoDB, Introduction to DynamoDB, Amazon DynamoDB FAQs, https://aws.amazon.com/dynamodb/faqs/
+
+Section 6, DynamoDB, Introduction to DynamoDB, AWS Certified Developer Associate Interactive Study Guide: DynamoDB, https://acloudguru.visme.co/view/dmyj4q9e-aws-certified-developer-associate-studyguide-s06-dynamodb-part1
+
+Section 6, DynamoDB, Introduction to DynamoDB, Servic, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+
+Section 6, DynamoDB, Creating a DynamoDB Table - Demo, Resources.zip, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1607601627101-resoucres.zip
+
+Section 6, DynamoDB, Creating a DynamoDB Table - Demo, GitHub Link, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate
+
+Section 6, DynamoDB, Creating a DynamoDB Table - Demo, Dynamodb get-item command, https://media.acloud.guru/aws-cda-2018/resource/2e335f1f-2bf4-49f9-0ad8-d0fdd04c5c9e_ffca869f-13a9-234f-f1c1-749ba0cad2ad/aws-cda-2018-21b919a4-6bc1-49e6-ab13-3cf92f9573e1.txt?Expires=1670328211&Signature=WxdVtONHlxv1Ui6LP8GMcAgIM8TVGvgzBayQlRFMdpW9FBvswsxMRReP1uoZMHdMoh5TsZbBC8fPJ1nOvtG9WB8Q++9CSvRlcrNAq9M5842kMqsiVHDfo2A9wh5XSZ6BcZ6k0wAE7xypjUuYDIEVMSO2+UtcaOJB+NVXX5QhQ0F8yfSBRR97odvMoZsT7uCqYaBvBUw77GR8VX+koBQqU4aIiPsh6PRa8zsMX1sr4BK8Lti1pklrK0Oljb94pQUJejRqQ0CUBT1Pe9l3dTF7s+2xNZjZZ4jJfdXnw32Chns+ZfkgrQfAcZZ77gOHOR3IPMnIevFxxs+QE/Kn+fpARg==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 6, DynamoDB, Creating a DynamoDB Table - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882953335-S6_L2_CREATING_A_DYNAMODB_TABLE_DEMO.pdf
+
+Section 6, DynamoDB, Indexes Deepdive, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609892841776-S6_L3_INDEXES_DEEPDIVE.pdf
+
+Section 6, DynamoDB, Scan vs Query API Call - Demo, Amazon DynamoDB > API Actions, https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Operations.html
+
+Section 6, DynamoDB, Scan vs Query API Call - Demo, Commands, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/blob/main/Scan_V_Query/commands.txt
+
+Section 6, DynamoDB, Scan vs Query API Call - Demo, Best Practices for Querying and Scanning Data, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-query-scan.html
+
+Section 6, DynamoDB, Using DynamoDB API Calls, DynamoDB Command Line Reference, https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/index.html
+
+Section 6, DynamoDB, DynamoDB Provisioned Throughput, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609893318195-S6_L5_DYNAMODB_PROVISIONED_THROUGHPUT.pdf
+
+Section 6, DynamoDB, DynamoDB On-Demand Capacity, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609893427115-S6_L6_DYNAMODB_PRICING_OPTIONS.pdf
+
+Section 6, DynamoDB, DynamoDB Accelerator (DAX), PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609893650942-S6_L7_DYNAMODB_ACCELERATOR.pdf
+
+Section 6, DynamoDB, DynamoDB TTL - Demo, DynamoDB Commands, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1615224240772-DynamoDB%20Commands.txt
+
+Section 6, DynamoDB, DynamoDB TTL - Demo, Git Repository , https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/DynamoDB_TTL_Demo
+
+Section 6, DynamoDB, Provisioned Throughput Exceeded and Exponential Backoff, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894133531-S6_L12_DYNAMODB_EXPONENTIAL_BACK_OFF.pdf
+
+Section 6, DynamoDB, DynamoDB Summary, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894244898-S6_L13_DYNAMODB_SUMMARY.pdf
+
+Section 6, DynamoDB, DynamoDB Summary, AWS Certified Developer Associate Interactive Study Guide: DynamoDB, https://acloudguru.visme.co/view/dmyj4q9e-aws-certified-developer-associate-studyguide-s06-dynamodb-part1

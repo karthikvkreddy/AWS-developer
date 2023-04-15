@@ -1,0 +1,49 @@
+Section 4, S3, S3 101, Amazon S3 Performance Tips & Tricks + Seattle S3 Hiring Event, https://aws.amazon.com/blogs/aws/amazon-s3-performance-tips-tricks-seattle-hiring-event/
+
+Section 4, S3, S3 101, Amazon S3 FAQs, https://aws.amazon.com/s3/faqs/
+
+Section 4, S3, S3 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609874191299-S4_L1_S3_101.pdf
+
+Section 4, S3, S3 101, Sharing an object with a presigned URL, https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html
+
+Section 4, S3, S3 101, AWS Certified Developer Associate Interactive Study Guide: S3, https://acloudguru.visme.co/view/ojy84v71-aws-certified-developer-associate-studyguide-s04-s3
+
+Section 4, S3, Reviewing S3 Storage Classes, Slides PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637615002805-AWS%20Certified%20Developer%20-%20Associate%202020_S4_L2_REVIEWING_S3_CLASSES.pdf
+
+Section 4, S3, Reviewing S3 Storage Classes, S3 Storage Classes, https://aws.amazon.com/s3/storage-classes/
+
+Section 4, S3, Securing S3 Buckets, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609874461109-S4_L2_S3_SECURITY.pdf
+
+Section 4, S3, S3 Encryption, AWS - S3 encryption update, https://docs.aws.amazon.com/AmazonS3/latest/dev//bucket-encryption.html#bucket-encryption-update-bucket-policy
+
+Section 4, S3, S3 Encryption, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609874624357-S4_L4_S3_ENCRYPTION.pdf
+
+Section 4, S3, Configuring Encryption on an S3 Bucket - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609874769848-S4_L5_CONFIGURING_ENCRYPTION_ON_AN_S3_BUCKET_DEMO.pdf
+
+Section 4, S3, Configuring Encryption on an S3 Bucket - Demo, Protecting Data Using Server-Side Encryption, https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingServerSideEncryption.html
+
+Section 4, S3, CORS Configuration - Demo, CORS - What is it, https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+
+Section 4, S3, CORS Configuration - Demo, Website Files, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1621308708394-Website_files.zip
+
+Section 4, S3, CORS Configuration - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609874898919-S4_L6_CORS_CONFIGURATION_DEMO.pdf
+
+Section 4, S3, Overview of CloudFront, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609875175576-S4_L7_CLOUDFRONT_OVERVIEW.pdf
+
+Section 4, S3, Configuring Amazon CloudFront Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637596428718-AWS%20Certified%20Developer%20-%20Associate%202020_S04-L09_CONFIGURING_CLOUDFRONT_DEMO.pdf
+
+Section 4, S3, Configuring Amazon CloudFront Demo, Image file, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1620297128238-cute_dog.jpg
+
+Section 4, S3, Configuring CloudFront With Origin Access Identity, Slides PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637596482488-AWS%20Certified%20Developer%20-%20Associate%202020_S04-L10_CONFIGURING_CLOUDFRONT_WITH_ORIGIN_ACCESS_IDENTITY.pdf
+
+Section 4, S3, Configuring CloudFront With Origin Access Identity, ryan_faye.jpeg, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637244915415-ryan_faye.jpeg
+
+Section 4, S3, Configuring CloudFront With Origin Access Identity, Serving private content with signed URLs and signed cookies, https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/PrivateContent.html
+
+Section 4, S3, Understanding CloudFront AllowedMethods, CloudFront API Reference, https://docs.aws.amazon.com/cloudfront/latest/APIReference/API_AllowedMethods.html
+
+Section 4, S3, S3 Summary, S3 FAQ, https://aws.amazon.com/s3/faqs/
+
+Section 4, S3, S3 Summary, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1637614904866-AWS%20Certified%20Developer%20-%20Associate%202020_S4_L11_S3_SUMMARY.pdf
+
+Section 4, S3, S3 Summary, AWS Certified Developer Associate Interactive Study Guide: S3, https://acloudguru.visme.co/view/ojy84v71-aws-certified-developer-associate-studyguide-s04-s3

@@ -1,0 +1,19 @@
+Section 7, KMS and Encryption on AWS, KMS 101, AWS Certified Developer Associate Interactive Study Guide: KMS and Encryption on AWS, https://acloudguru.visme.co/view/w4zj0rw1-aws-certified-developer-associate-studyguide-s07-kms-and-encryption-on-aws
+
+Section 7, KMS and Encryption on AWS, KMS 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894308645-S7_L1_KMS_101.pdf
+
+Section 7, KMS and Encryption on AWS, Creating A CMK - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894433091-S7_L2_CREATING_A_CMK.pdf
+
+Section 7, KMS and Encryption on AWS, CMK Summary, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894529091-S7_L3_CMK_SUMMARY.pdf
+
+Section 7, KMS and Encryption on AWS, Understanding KMS API Calls - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894665340-S7_L4_Understanding_KMS_API_Calls.pdf
+
+Section 7, KMS and Encryption on AWS, Understanding KMS API Calls - Demo, AWS CLI Documentation For KMS Commands, https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/index.html#cli-aws-kms
+
+Section 7, KMS and Encryption on AWS, Understanding KMS API Calls - Demo, KMS Commands, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1596791619187-KMS_COMMANDS.txt
+
+Section 7, KMS and Encryption on AWS, Exploring Envelope Encryption, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894752683-S7_L5_Exploring_Envelope-Encryption.pdf
+
+Section 7, KMS and Encryption on AWS, KMS Summary, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609894833836-S7_L6_KMS_SUMMARY.pdf
+
+Section 7, KMS and Encryption on AWS, KMS Summary, AWS Certified Developer Associate Interactive Study Guide: KMS and Encryption on AWS, https://acloudguru.visme.co/view/w4zj0rw1-aws-certified-developer-associate-studyguide-s07-kms-and-encryption-on-aws

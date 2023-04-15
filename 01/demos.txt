@@ -1,0 +1,27 @@
+Section 2, Beginner's Guide to IAM, IAM 101, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to IAM, https://acloudguru.visme.co/view/y4nxpkv4-aws-certified-developer-associate-studyguide-s02-beginners-guide-to-iam
+
+Section 2, Beginner's Guide to IAM, IAM 101, AWS IAM features, https://aws.amazon.com/iam/features/
+
+Section 2, Beginner's Guide to IAM, IAM 101, Lesson PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609870881237-S2_L1_IAM_101.pdf
+
+Section 2, Beginner's Guide to IAM, IAM Demo, Creating a Free Tier Billing alert, https://aws.amazon.com/about-aws/whats-new/2017/12/aws-free-tier-usage-alerts-automatically-notify-you-when-you-are-forecasted-to-exceed-your-aws-service-usage-limits/
+
+Section 2, Beginner's Guide to IAM, IAM Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609871051816-S2_L2_IAM%20Lab.pdf
+
+Section 2, Beginner's Guide to IAM, IAM Demo, AWS - Set up a new account, https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+
+Section 2, Beginner's Guide to IAM, IAM Demo, Limiting your costs $, https://media.acloud.guru/aws-cda-2018/resource/3a6b4f6d-bdd3-ced6-8763-3b8a760c9414_d0680df0-d730-cb1b-3f1e-9f412775aab0/aws-cda-2018-28622caa-258d-4f41-92ea-7c8899b7e072.pdf?Expires=1670328211&Signature=B7u+c3NBf4PA/E1hs7eSHyYqdlWKWQ3v/ED3ag81KLdkk4LhUqi9QU/hNG29fZeyvDz5CUsQ7Vb4pKV0abO8+KJV2h8NVb+L7kGD+RVci0vrmvdyn8q27osW0Bro0mjzdEo6JyvXo+ti87o/4D6ko8q0V7o3+BgTvzg2jI5iO7qx19bXlZ/mmsYJNyN7mFdrq+n5PStUWeMnRM8Q2+NOcmuvTjRbVqek20zGQNphmE2UGDEUYLVeC0CBMoPKzcdMWVG7M5IXgct/k9O/PML7MPGJWyu45EIfEPqOcDrOnsoCFtVNpRv23NpyTfXC0gXfqtszVNf8ewv9y/3Jr7Muaw==&Key-Pair-Id=APKAISLU6JPYU7SF6EUA
+
+Section 2, Beginner's Guide to IAM, IAM Demo, Creating a Billing alert, https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
+
+Section 2, Beginner's Guide to IAM, Testing IAM Policy Permissions, IAM Policy Simulator, https://policysim.aws.amazon.com/
+
+Section 2, Beginner's Guide to IAM, Testing IAM Policy Permissions, IAM Policy Simulator Documentation, https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html
+
+Section 2, Beginner's Guide to IAM, Testing IAM Policy Permissions, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609871350426-S2_L3_Testing%20IAM.pdf
+
+Section 2, Beginner's Guide to IAM, IAM 101 Summary, Security Best Practices Whitepaper, https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
+
+Section 2, Beginner's Guide to IAM, IAM 101 Summary, Lesson PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609871717794-S2_L4_IAM_Summary.pdf
+
+Section 2, Beginner's Guide to IAM, IAM 101 Summary, AWS Certified Developer Associate Interactive Study Guide: Beginner's Guide to IAM, https://acloudguru.visme.co/view/y4nxpkv4-aws-certified-developer-associate-studyguide-s02-beginners-guide-to-iam

@@ -1,0 +1,19 @@
+Section 1, Introduction, Introduction, AWS CDA Interactive Study Guide - Table of Contents, https://acloudguru.visme.co/view/q68jvmjd-aws-certified-developer-associate-study-guide-table-of-contents
+
+Section 1, Introduction, Introduction, CDA PDF Part 2, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1616618442532-Certified%20Developer%20Associate%20Study%20Guide%20PT%202.pdf
+
+Section 1, Introduction, Introduction, CDA PDF Part 1, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1616618366085-Certified%20Developer%20Associate%20Study%20Guide%20PT%201.pdf
+
+Section 1, Introduction, Introduction, AWS - all Products, https://aws.amazon.com/products/
+
+Section 1, Introduction, What Can I Skip?, Lesson PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609869212354-S1_L3_Already_Done_Solutions_Architect.pdf
+
+Section 1, Introduction, Exam Blueprint, Exam Blueprint, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609870719995-S1_L4_The_Exam_Blue_Print.pdf
+
+Section 1, Introduction, Exam Blueprint, AWS Recertification, https://aws.amazon.com/certification/recertification/
+
+Section 1, Introduction, Exam Blueprint, Exam Guide, https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf
+
+Section 1, Introduction, Introducing The AWS Cloud Sandbox, Cloud Playground and AWS Cloud Sandbox FAQs, https://help.acloud.guru/hc/en-us/articles/360001382215-Playground-Sandboxes-Getting-Started
+
+Section 1, Introduction, Course Updates, Change Log, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1652975122973-changelog-aws-cda-2018.pdf
