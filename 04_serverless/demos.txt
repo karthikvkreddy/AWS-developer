@@ -1,0 +1,59 @@
+Section 5, Introduction to Serverless Computing, Serverless 101, AWS Certified Developer Associate Interactive Study Guide: Introduction to Serverless Computing - Part 2, https://acloudguru.visme.co/view/vd73kpyd-aws-certified-developer-associate-studyguide-s05-serverlesssummary-part2
+
+Section 5, Introduction to Serverless Computing, Serverless 101, AWS Certified Developer Associate Interactive Study Guide: Introduction to Serverless Computing - Part 1, https://acloudguru.visme.co/view/rxep030o-aws-certified-developer-associate-studyguide-s05-serverlesssummary-part1
+
+Section 5, Introduction to Serverless Computing, Serverless 101, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609880755229-S5_L1_SERVERLESS_101.pdf
+
+Section 5, Introduction to Serverless Computing, Introducing Lambda, Lambda Documentation, https://docs.aws.amazon.com/lambda/latest/dg/lambda-services.html
+
+Section 5, Introduction to Serverless Computing, Introducing Lambda, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609880847396-S5_L2_LAMBDA.pdf
+
+Section 5, Introduction to Serverless Computing, Introducing Lambda, AWS::Lambda::Function, https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-lambda-function.html
+
+Section 5, Introduction to Serverless Computing, API Gateway, Setting up a stage using the API Gateway console, https://docs.aws.amazon.com/apigateway/latest/developerguide/stages.html
+
+Section 5, Introduction to Serverless Computing, API Gateway, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609880921530-S5_L3_API_GATEWAY.pdf
+
+Section 5, Introduction to Serverless Computing, API Gateway, AWS - API Gateway structure, https://docs.aws.amazon.com/apigateway/api-reference/
+
+Section 5, Introduction to Serverless Computing, Building a Serverless Website - Demo, Serverless Website Demo Code, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Serverless_Webite_Demo
+
+Section 5, Introduction to Serverless Computing, Building a Serverless Website - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609881008086-S5_L4_BUILDING_A_SIMPLE_SERVERLESS_WEBSITE_DEMO%20%28Rebecca%20Gibbs%27s%20conflicted%20copy%202020-10-08%29.pdf
+
+Section 5, Introduction to Serverless Computing, Version Control With Lambda - Demo, GitHub Repository - Version 1 and 2 code, https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate/tree/main/Version_Control_With_Lambda
+
+Section 5, Introduction to Serverless Computing, Lambda Concurrent Executions Limit, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609881476736-S5_L6_LAMBDA_LIMITS.pdf
+
+Section 5, Introduction to Serverless Computing, Lambda and VPC Access, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609881600745-S5_L7_LAMBDA_%26_VPCs_edited.pdf
+
+Section 5, Introduction to Serverless Computing, Step Functions - Demo, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882015226-S5_L9_STEP_FUNCTIONS.pdf
+
+Section 5, Introduction to Serverless Computing, Step Functions - Demo, AWS Step Functions FAQs, https://aws.amazon.com/step-functions/faqs/
+
+Section 5, Introduction to Serverless Computing, Comparing Step Functions Workflows, Standard vs Express Workflows, https://docs.aws.amazon.com/step-functions/latest/dg/concepts-standard-vs-express.html
+
+Section 5, Introduction to Serverless Computing, Understanding X-Ray, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882221674-S5_L10_X-RAY.pdf
+
+Section 5, Introduction to Serverless Computing, Understanding X-Ray, X-Ray Zip File, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1601287080555-aws-cda-2020-x-ray-resources.zip
+
+Section 5, Introduction to Serverless Computing, Understanding X-Ray, AWS X-Ray FAQs, https://aws.amazon.com/xray/faqs/
+
+Section 5, Introduction to Serverless Computing, Understanding X-Ray, Integrating AWS X-Ray with other AWS services, https://docs.aws.amazon.com/xray/latest/devguide/xray-services.html
+
+Section 5, Introduction to Serverless Computing, Understanding X-Ray, X-Ray Link, https://console.aws.amazon.com/elasticbeanstalk/#/newApplication?applicationName=scorekeep&solutionStackName=Java
+
+Section 5, Introduction to Serverless Computing, X-Ray Configuration, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882338464-S5_L11_X-RAY_CONFIGURATION_STEPS.pdf
+
+Section 5, Introduction to Serverless Computing, Advanced API Gateway, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882387213-S5_L12_ADVANCED_API_GATEWAY.pdf
+
+Section 5, Introduction to Serverless Computing, Advanced API Gateway, How to configure Amazon API Gateway as a SOAP webservice passthrough in minutes, https://blog.joshuamoesa.com/2017/06/how-to-configure-amazon-api-gateway-as.html
+
+Section 5, Introduction to Serverless Computing, API Gateway Caching and Throttling, Amazon API Gateway REST API Reference: Signing Requests, https://docs.aws.amazon.com/apigateway/api-reference/signing-requests/
+
+Section 5, Introduction to Serverless Computing, API Gateway Caching and Throttling, Enabling API caching to enhance responsiveness, https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html
+
+Section 5, Introduction to Serverless Computing, Serverless Summary - Part 1, PDF, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1609882437887-S5_L13_SERVERLESS_SUMMARY.pdf
+
+Section 5, Introduction to Serverless Computing, Serverless Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Introduction to Serverless - Part 1, https://acloudguru.visme.co/view/rxep030o-aws-certified-developer-associate-studyguide-s05-serverlesssummary-part1
+
+Section 5, Introduction to Serverless Computing, Serverless Summary - Part 1, AWS Certified Developer Associate Interactive Study Guide: Introduction to Serverless - Part 2, https://acloudguru.visme.co/view/vd73kpyd-aws-certified-developer-associate-studyguide-s05-serverlesssummary-part2

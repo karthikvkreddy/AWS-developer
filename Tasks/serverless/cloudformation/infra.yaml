@@ -1,0 +1,19 @@
+Parameters:
+  BucketName:
+    Description: Enter a unique name for the S3 bucket
+    Type: String
+
+Resources:
+  MyS3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: PublicRead # Set appropriate access control for your use case
+      BucketName: !Ref BucketName # Replace with your desired bucket name
+      WebsiteConfiguration:
+        IndexDocument: index.html # Set the index document for your website
+        ErrorDocument: error.html # Set the error document for your website
+
+Outputs:
+  BucketName:
+    Value: !Ref MyS3Bucket
+    Description: The name of the S3 bucket
