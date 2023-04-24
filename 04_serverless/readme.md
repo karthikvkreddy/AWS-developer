@@ -112,3 +112,38 @@ aws lambda update-function-configuration --function-name my-function --vpc-confi
 ```
 ### 📖 Exam Tips:
 ![](./img/img4.png)
+
+## 5: Step Function:
+- Provides a visual interface for serverless applications, which enables you to build and run serverless applications as series of steps.
+- each function will be in order
+- sequential workflow
+    - start -> decode base64 string -> generates statistics -> remove special characters -> tokenize and count -> end
+- parallel flow 
+    - start -> process photo -> (extract metadata , resize image, facial recognisation) -> load in database -> end
+
+### 📖 Exam Tips:
+![](./img/img5.png)
+
+## 6: Comparing step fuction workflows:
+- Step functions:
+    - strp functions provides various types of state machines that feature different workflows to cater to a verirty of tasks that you would like to orchestrate
+    - the kind of task you are orchestrating determines the type of machine you should use
+
+1. Standard workflows
+    - `long running`: flows that run for up to year. full execution history available for up to 90 dats after completion
+    - `At Most once model`: task that never execute more than once unless you explicitily specify retry actions.
+    - `Non-Idempotent actions`: when processing payments, you only want a payment to be processed once, not multiple times
+    - `Change in state?`: A request is non-idempotent if it always causes a change in state. (sending the same email multiple times causes a change in state bcoz you end up with multiplr emails in your inbox)
+
+2. Express workflows: 
+    - `Short-lived`: (Up to 5 minutes) great for hugh-volume, event-processing-type workflows
+    - `At-least-once`: (Model) ideal if there is a possibility that execution might be run more than once or you require multiple concurrent executions
+    - `Idempotent`: (actions) for example, transforming input data and storing the result in DynamoDB.
+    - `Identical request` (has no side effect): A request is considered idempotent if an identical request can made once or several times in a row with no additional side effects (eg. reading data from database or s3 bucket)
+
+3. Synchronous and asynchronous express workflows:
+    - synchronous: beings a workflow -> waits until it completes -> return the results
+    - asynchronous: begins a workflow -> confirms the workflow has strated-> result of workflow can be found in cloudwatch logs.
+
+## 7. X-Ray:
+
