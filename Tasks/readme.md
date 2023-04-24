@@ -10,3 +10,8 @@ Sol:
    ![](./img/img2.png)
 Sol: 
 [Checkout this folder](./serverless/)
+
+### Task 3: X-Ray:
+   ![](./img/img3.png)
+Sol: 
+[Checkout this folder](./serverless/)
